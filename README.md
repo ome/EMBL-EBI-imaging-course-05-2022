@@ -45,6 +45,7 @@ and activate the newly created environment:
     $ conda activate imaging_course
 
 The following steps are only required if you want to run the notebooks:
+
     * If you have Anaconda installed:
         * Start Jupyter from the Anaconda-navigator
         * Select the notebook you wish to run and select the ``Kernel>Change kernel>Python [conda env:imaging_course]``
