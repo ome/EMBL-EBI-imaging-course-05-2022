@@ -12,7 +12,7 @@ Day 4 contains a [walkthrough](Image-Data-Resource-Practical.md) for the IDR pra
 ### Running on cloud resources
 
 * Run [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jburel/EMBL-EBI-imaging-course-05-2022/master?filepath=Day_3)
-* [![Open In Colab](https://colab.research.google.com/github/jburel/EMBL-EBI-imaging-course-05-2022/)
+* Run [![Open In Colab](https://colab.research.google.com/github/jburel/EMBL-EBI-imaging-course-05-2022/)
 
 ### Running in Docker
 
