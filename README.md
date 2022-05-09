@@ -3,6 +3,7 @@
 This repository contains materials for the May 2022 virtual course [Microscopy data analysis: machine learning and the BioImage Archive]( https://www.ebi.ac.uk/training/events/microscopy-data-analysis-machine-learning-and-bioimage-archive-2022).
 
 Day 3 contains a collection of notebooks
+
 Day 4 contains a [walkthrough](Image-Data-Resource-Practical.md) for the IDR practical
 
 
