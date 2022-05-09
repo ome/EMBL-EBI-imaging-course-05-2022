@@ -4,6 +4,9 @@ This repository contains materials for the May 2022 virtual course [Microscopy d
 
 Day 3 contains a collection of notebooks
 
+Day 4 contains a [walkthrough](Image-Data-Resource-Practical.md) for the IDR practical
+
+
 ## Running the notebooks from Day 3
 
 ### Running on cloud resources
