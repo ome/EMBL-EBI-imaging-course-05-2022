@@ -1,12 +1,3 @@
-Software versions used for this workshop:
-OMERO: 5.6.4
-OMERO.web: 5.14.0
-OMERO.iviewer: 0.11.1
-OMERO.mapr 0.5.1
-omero-guides: 2021.11.09
-Bio-Formats:  6.5.1
-Fiji/ImageJ: 2.0.0-rc-69/1.52p
-
 ## Summary
 1. From publication to IDR study, viewing images and ROIs
 2. From Gene to phenotypes, orientating in metadata ecosystem
