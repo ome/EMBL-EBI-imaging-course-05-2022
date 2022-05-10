@@ -44,15 +44,15 @@ and activate the newly created environment:
 
     $ conda activate imaging_course
 
-The following steps are only required if you want to run the notebooks:
+The following steps are only required if you want to run the notebooks
 
-    * If you have Anaconda installed:
-        * Start Jupyter from the Anaconda-navigator
-        * Select the notebook you wish to run and select the ``Kernel>Change kernel>Python [conda env:imaging_course]``
-    * If Anaconda is not installed:
-        * In the environment, install ``jupyter`` e.g. ``pip install jupyter``
-        * Add the virtualenv as a jupyter kernel i.e. ``ipython kernel install --name "imaging_course" --user``
-        * Open jupyter notebook i.e. ``jupyter notebook`` and select the ``imaging_course`` kernel or ``[conda env:imaging_course]`` according to what is   available
+* If you have Anaconda installed:
+  * Start Jupyter from the Anaconda-navigator
+  * Select the notebook you wish to run and select the ``Kernel>Change kernel>Python [conda env:imaging_course]``
+* If Anaconda is not installed:
+  * In the environment, install ``jupyter`` e.g. ``pip install jupyter``
+  * Add the virtualenv as a jupyter kernel i.e. ``ipython kernel install --name "imaging_course" --user``
+  * Open jupyter notebook i.e. ``jupyter notebook`` and select the ``imaging_course`` kernel or ``[conda env:imaging_course]`` according to what is   available
 
 
 An additional benefit of installing the requirements locally is that you
