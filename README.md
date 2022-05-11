@@ -1,3 +1,5 @@
+[![Actions Status](https://github.com/ome/EMBL-EBI-imaging-course-05-2022/workflows/repo2docker/badge.svg)](https://github.com/ome/EMBL-EBI-imaging-course-05-2022/actions)
+
 # EMBL-EBI-imaging-course-05-2022
 
 This repository contains materials for the May 2022 virtual course [Microscopy data analysis: machine learning and the BioImage Archive]( https://www.ebi.ac.uk/training/events/microscopy-data-analysis-machine-learning-and-bioimage-archive-2022).
