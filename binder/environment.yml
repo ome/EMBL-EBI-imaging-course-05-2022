@@ -6,11 +6,14 @@ dependencies:
   - distributed
   - pip
   # ome: minimal dependencies required to use the Python API
+  - omero-py
   - pandas
   - tensorflow
   - pip:
     - ome-zarr
     - dask-image
     - stardist==0.8.1
+    # dependency used to convert the OMERO masks into numpy array
+    - omero-cli-zarr
     # dependency to save the labels as geojson file
     - geojson
