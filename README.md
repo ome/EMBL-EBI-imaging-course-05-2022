@@ -2,17 +2,17 @@
 
 This repository contains materials for the May 2022 virtual course [Microscopy data analysis: machine learning and the BioImage Archive]( https://www.ebi.ac.uk/training/events/microscopy-data-analysis-machine-learning-and-bioimage-archive-2022).
 
-Day 3 contains a collection of notebooks
+Day 3 *Distributed/Cloud computing practical* contains a collection of notebooks with code and text.
 
-Day 4 contains a [walkthrough](Day_4/Image-Data-Resource-Practical.md) for the IDR practical
+Day 4 *Image data resource practical* contains a collection of notebooks with code and text.
 
 
-## Running the notebooks from Day 3
+## Running the notebooks
 
 ### Running on cloud resources
 
-* Run [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jburel/EMBL-EBI-imaging-course-05-2022/master?filepath=Day_3)
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jburel/EMBL-EBI-imaging-course-05-2022/)
+* Run [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ome/EMBL-EBI-imaging-course-05-2022/main)
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ome/EMBL-EBI-imaging-course-05-2022/)
 
 ### Running in Docker
 
@@ -20,7 +20,7 @@ Day 4 contains a [walkthrough](Day_4/Image-Data-Resource-Practical.md) for the I
 Alternatively, if you have Docker installed, you can use the [repo2docker](https://repo2docker.readthedocs.io/en/latest/)
 tool to run this repository as a local Docker instance:
 
-    $ git clone git://github.com/jburel/EMBL-EBI-imaging-course-05-2022
+    $ git clone git://github.com/ome/EMBL-EBI-imaging-course-05-2022
     $ cd EMBL-EBI-imaging-course-05-2022
     $ repo2docker .
 
@@ -36,7 +36,7 @@ Install Anaconda https://www.anaconda.com/products/individual#Downloads
 
 Then, create the environment:
 
-    $ git clone git://github.com/jburel/EMBL-EBI-imaging-course-05-2022
+    $ git clone git://github.com/ome/EMBL-EBI-imaging-course-05-2022
     $ cd EMBL-EBI-imaging-course-05-2022
     $ conda env create -n imaging_course -f binder/environment.yml
 
@@ -52,9 +52,8 @@ The following steps are only required if you want to run the notebooks
 * If Anaconda is not installed:
   * In the environment, install ``jupyter`` e.g. ``pip install jupyter``
   * Add the virtualenv as a jupyter kernel i.e. ``ipython kernel install --name "imaging_course" --user``
-  * Open jupyter notebook i.e. ``jupyter notebook`` and select the ``imaging_course`` kernel or ``[conda env:imaging_course]`` according to what is   available
+  * Open jupyter notebook i.e. ``jupyter notebook`` and select the ``imaging_course`` kernel or ``[conda env:imaging_course]`` according to what is available
 
 
 An additional benefit of installing the requirements locally is that you
 can then use the tools without needing to launch Jupyter itself.
-
