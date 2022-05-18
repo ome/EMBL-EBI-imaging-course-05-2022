@@ -7,15 +7,15 @@ This repository contains materials for the May 2022 virtual course [Microscopy d
 Day 3 *Distributed/Cloud computing practical* contains a collection of notebooks with code and text.
 
 Day 4 *Image data resource practical* contains a collection of notebooks with code and text. It also contains the presentation
-[Image Data Resource: Data Submission and Curation](Day_4/EMBL_EBI_Workshop.pdf)
+[Image Data Resource: Data Submission and Curation](Day_4/EMBL_EBI_Workshop.pdf).
 
 
 ## Running the notebooks
 
 ### Running on cloud resources
 
-* Run [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ome/EMBL-EBI-imaging-course-05-2022/main)
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ome/EMBL-EBI-imaging-course-05-2022/)
+* Run in [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ome/EMBL-EBI-imaging-course-05-2022/main)
+* Run in [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ome/EMBL-EBI-imaging-course-05-2022/)
 
 ### Running in Docker
 
