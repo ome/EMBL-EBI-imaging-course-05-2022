@@ -23,7 +23,7 @@ Day 4 *Image data resource practical* contains a collection of notebooks with co
 Alternatively, if you have Docker installed, you can use the [repo2docker](https://repo2docker.readthedocs.io/en/latest/)
 tool to run this repository as a local Docker instance:
 
-    $ git clone git://github.com/ome/EMBL-EBI-imaging-course-05-2022
+    $ git clone https://github.com/ome/EMBL-EBI-imaging-course-05-2022
     $ cd EMBL-EBI-imaging-course-05-2022
     $ repo2docker .
 
@@ -39,7 +39,7 @@ Install Anaconda https://www.anaconda.com/products/individual#Downloads
 
 Then, create the environment:
 
-    $ git clone git://github.com/ome/EMBL-EBI-imaging-course-05-2022
+    $ git clone https://github.com/ome/EMBL-EBI-imaging-course-05-2022
     $ cd EMBL-EBI-imaging-course-05-2022
     $ conda env create -n imaging_course -f binder/environment.yml
 
