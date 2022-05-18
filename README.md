@@ -6,7 +6,8 @@ This repository contains materials for the May 2022 virtual course [Microscopy d
 
 Day 3 *Distributed/Cloud computing practical* contains a collection of notebooks with code and text.
 
-Day 4 *Image data resource practical* contains a collection of notebooks with code and text.
+Day 4 *Image data resource practical* contains a collection of notebooks with code and text. It also contains the presentation
+[Image Data Resource: Data Submission and Curation](Day_4/EMBL_EBI_Workshop.pdf)
 
 
 ## Running the notebooks
