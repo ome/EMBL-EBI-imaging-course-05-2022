@@ -4,6 +4,7 @@ dependencies:
   - python ~= 3.9.0
   - dask
   - distributed
+  - ipywidgets
   - pip
   # ome: minimal dependencies required to use the Python API
   - omero-py
