@@ -14,8 +14,8 @@ Day 4 *Image data resource practical* contains a collection of notebooks with co
 
 ### Running on cloud resources
 
-* Run in [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ome/EMBL-EBI-imaging-course-05-2022/main)
-* Run in [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ome/EMBL-EBI-imaging-course-05-2022/)
+* [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ome/EMBL-EBI-imaging-course-05-2022/main)
+* [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ome/EMBL-EBI-imaging-course-05-2022/)
 
 ### Running in Docker
 
